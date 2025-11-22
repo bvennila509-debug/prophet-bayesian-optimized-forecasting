@@ -1,0 +1,1 @@
+This project builds a robust forecasting pipeline using Prophet and Bayesian Optimization (Optuna). It generates realistic time series with trend, seasonality, and regressors; uses rolling-origin CV; tunes hyperparameters; and delivers a detailed report comparing baseline and optimized models and computational trade-offs.
